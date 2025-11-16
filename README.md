@@ -16,13 +16,7 @@
 - *Tools:* Git, GitHub, VS Code  
 - *Interests:* DSA, Problem Solving & Software Development
 
-# 📊 **GitHub Stats & Badges**
-
-
-<!-- Profile Views -->
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=aminurislamdc&label=Profile%20Views&color=blue&style=flat" />
-</p>
+## 📫 **Contact Me**
 
 
 <!-- Badges -->
@@ -69,3 +63,9 @@
 
 
 ### ⭐ If you like my work, consider giving a star to my repositories!
+
+
+<!-- Profile Views -->
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=aminurislamdc&label=Profile%20Views&color=blue&style=flat" />
+</p>
