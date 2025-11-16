@@ -2,20 +2,19 @@
 <h1 align="center">Hi 👋 Md. Aminur Islam</h1>
 <h3 align="center">A passionate learner and programmer from Bangladesh</h3>
 
-
-
 ### 🚀 About Me
+
 - 🎓 Engineering Student | Tech Enthusiast  
-- 💻 Exploring *C++, OOP, Data Structures & Algorithms*  
-- 🌱 Currently learning *Problem Solving & GitHub Workflow*  
-- 📫 Reach me at *aminurislamdc@gmail.com*  
+- 💻 Exploring C, C++, Python, DSA, AI/ML, Cybersecurity & Backend Engineering
+- 🌱 Currently learning C++, DSA, Problem Solving & Cybersecurity
+
 
 ---
 
 ### 🛠 Skills & Tools
-- *Languages:* C, C++, Python  
+- *Languages:* C, C++
 - *Tools:* Git, GitHub, VS Code  
-- *Interests:* Programming, Software Development, Technology  
+- *Interests:* DSA, Problem Solving & Software Development
 
 # 📊 **GitHub Stats & Badges**
 
@@ -28,13 +27,10 @@
 
 <!-- Badges -->
 <p align="center">
-<a href="https://github.com/aminurislamdc">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/your-link">
+<a href="https://www.linkedin.com/in/aminurislamdc/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your-email">
+<a href="mailto:aminurislamdc@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
@@ -70,14 +66,6 @@
 
 ---
 
-
-## 📫 **Contact Me**
-📧 Email: your-email
-🔗 LinkedIn: your-link
-🐙 GitHub: https://github.com/aminurislamdc
-
-
----
 
 
 ### ⭐ If you like my work, consider giving a star to my repositories!
