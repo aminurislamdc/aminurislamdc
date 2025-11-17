@@ -12,9 +12,15 @@
 ---
 
 ### 🛠 Skills & Tools
-- *Languages:* C, C++
-- *Tools:* Git, GitHub, VS Code  
-- *Interests:* DSA, Problem Solving & Software Development
+
+### **Languages**
+- C, C++
+
+### **Tools**
+- Git, GitHub, VS Code
+
+### **Interests**
+- DSA, Problem Solving, Software Development, AI/ML
 
 ## 📫 **Contact Me**
 
