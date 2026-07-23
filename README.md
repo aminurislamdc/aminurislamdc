@@ -20,7 +20,7 @@
 - Git, GitHub, VS Code
 
 ### **Interests**
-- DSA, Problem Solving, Software Development, AI/ML
+- DSA, Problem Solving, Cybersecurity, Software Development, AI/ML
 
 ## 📫 **Contact Me**
 
